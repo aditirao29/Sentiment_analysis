@@ -88,7 +88,7 @@ The user enters text into the application, and the predicted sentiment (positive
 ## Screenshots
 <p align="center">
   <img src="screenshots/before.png" width="450" />
-  <img src="screenshots/after.png" width="440" />
+  <img src="screenshots/after.png" width="450" />
 </p>
 
 ---
